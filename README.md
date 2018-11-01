@@ -1,3 +1,3 @@
-# findGit
-findGit is created in Javascript and bootstrap. The application uses the github API.
-https://chaudharyvineet.github.io/findgit/
+# Githubfinder
+Githubfinder API project in vanilla JS UI is created with bootstrap. The application uses the github API.
+https://ochamm.github.io/Githubfinder/
